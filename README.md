@@ -36,17 +36,17 @@ Duración: 3 Meses
 Este patrocinio cubre el costo del catering del evento, que usualmente consiste en pizza y
 cerveza/bebidas. Adicionalmente cubre gastos operativos necesarios para mantener el grupo.
 Como patrocinador Gold usted recibe los siguientes beneficios:
-• Presentación de 5 minutos al final de las charlas o talleres.
-• Acceso a nuestra base de datos para ofertas especiales de trabajo.
-• Publicación de ofertas laborales máximo una vez cada dos semanas por medio del correo grupal
-del Meetup.
-• Hasta 2 Banners de pie en el espacio del evento, provisto y enviado por el patrocinador.
-• Posicionamiento de logo en primer lugar en el listado de patrocinadores de Codies con
-descripción del patrocinador y lo que ofrece a la comunidad.
-• Posicionamiento del logo y descripción de la agenda (inicio o cierre) del evento por parte de los
-organizadores.
-• Posicionamiento del logo en la publicación del evento que es enviada por correo.
-• Agradecimientos y menciones por medio de Twitter antes y al final de los eventos.
+* Presentación de 5 minutos al final de las charlas o talleres.
+* Acceso a nuestra base de datos para ofertas especiales de trabajo.
+* Publicación de ofertas laborales máximo una vez cada dos semanas por medio del correo grupal
+* del Meetup.
+* Hasta 2 Banners de pie en el espacio del evento, provisto y enviado por el patrocinador.
+* Posicionamiento de logo en primer lugar en el listado de patrocinadores de Codies con
+* descripción del patrocinador y lo que ofrece a la comunidad.
+* Posicionamiento del logo y descripción de la agenda (inicio o cierre) del evento por parte de los
+* organizadores.
+* Posicionamiento del logo en la publicación del evento que es enviada por correo.
+* Agradecimientos y menciones por medio de Twitter antes y al final de los eventos.
 
 
 ### Patrocinio Silver
@@ -55,15 +55,15 @@ Duración: 3 Meses
 Este patrocinio cubre gastos operativos del evento, usualmente siendo este transportación de
 materiales necesarios para el evento, logística y demás actividades que se requieran para los
 eventos especiales.
-• Publicación de ofertas laborales máximo una vez cada dos semanas por medio del correo grupal
-del Meetup.
-• 1 Banner de pie en el espacio del evento, provisto y enviado por el patrocinador.
-• Posicionamiento de logo en el listado de patrocinadores de Codies con descripción del
-patrocinador y lo que ofrece a la comunidad.
-• Posicionamiento del logo y descripción de la agenda (inicio o cierre) del evento por parte de los
-organizadores.
-• Posicionamiento del logo en la publicación del evento que es enviada por correo.
-• Agradecimientos y menciones por medio de Twitter antes y al final de los eventos.
+* Publicación de ofertas laborales máximo una vez cada dos semanas por medio del correo grupal
+* del Meetup.
+* 1 Banner de pie en el espacio del evento, provisto y enviado por el patrocinador.
+* Posicionamiento de logo en el listado de patrocinadores de Codies con descripción del
+* patrocinador y lo que ofrece a la comunidad.
+* Posicionamiento del logo y descripción de la agenda (inicio o cierre) del evento por parte de los
+* organizadores.
+* Posicionamiento del logo en la publicación del evento que es enviada por correo.
+* Agradecimientos y menciones por medio de Twitter antes y al final de los eventos.
 
 ### Patrocinio Startup
 Costo: $150.000
@@ -72,18 +72,17 @@ Este patrocinio solo está disponible para empresas con menos de 10 empleados, s
 disponible para un patrocinador por mes. Este patrocinio cubre gastos operativos del evento,
 usualmente siendo este transportación de materiales necesarios para el evento, logística y demás
 actividades que se requieran para los eventos especiales.
-• Publicación de ofertas laborales máximo una vez cada dos semanas por medio del correo grupal
-del Meetup.
-• 1 Banner de pie en el espacio del evento, provisto y enviado por el patrocinador.
-• Posicionamiento de logo en el listado de patrocinadores de Codies con descripción del
-patrocinador y lo que ofrece a la comunidad.
-• Posicionamiento del logo y descripción de la agenda (inicio o cierre) del evento por parte de los
-organizadores.
-• Posicionamiento del logo en la publicación del evento que es enviada por correo.
-• Agradecimientos y menciones por medio de Twitter antes y al final de los eventos.
-Para mas información y estar enterados de todos nuestros eventos, pueden seguirnos en
-nuestras redes sociales, en las cuales estaremos publicando constantemente los nuevos
-eventos y temas de interes.
+* Publicación de ofertas laborales máximo una vez cada dos semanas por medio del correo grupal
+* del Meetup.
+* 1 Banner de pie en el espacio del evento, provisto y enviado por el patrocinador.
+* Posicionamiento de logo en el listado de patrocinadores de Codies con descripción del
+* patrocinador y lo que ofrece a la comunidad.
+* Posicionamiento del logo y descripción de la agenda (inicio o cierre) del evento por parte de los
+* organizadores.
+* Posicionamiento del logo en la publicación del evento que es enviada por correo.
+* Agradecimientos y menciones por medio de Twitter antes y al final de los eventos.
+
+Para mas información y estar enterados de todos nuestros eventos, pueden seguirnos en nuestras redes sociales, en las cuales estaremos publicando constantemente los nuevos eventos y temas de interes.
 
 
 http://codies.org/
